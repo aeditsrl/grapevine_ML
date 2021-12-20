@@ -1,4 +1,4 @@
-# ** Predicting symptoms of downy mildew, powdery mildew, and gray mold diseases of grapevine through machine learning**
+# Predicting symptoms of downy mildew, powdery mildew, and gray mold diseases of grapevine through machine learning
 This repository is related to the the paper “Predicting symptoms of downy mildew, powdery mildew, and gray mold diseases of grapevine through machine learning” authored by Iride Volpi, Diego Guidotti, Michele Mammini, and Susanna Marchi, submitted to the Italian Journal of Agrometeorology on 10 November 2020.
 The repository contains, as an example of the method applied in the paper, a script and an extract of the dataset used for training, tuning and testing the model for the prediction of the presence of symptoms of powdery mildew on grapevine in Tuscany region (Italy). 
 
